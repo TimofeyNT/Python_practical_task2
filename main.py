@@ -22,12 +22,12 @@
 # 4 4 -> 2 2
 # 5 6 -> 2 3
 
-s = int(input('Введите сумму чисел (S): '))
-p = int(input('Введите произведение чисел (P): '))
-for x in range(s - 1):
-    y = s - x
-    if x * y == p:
-        print(x, y)
+# s = int(input('Введите сумму чисел (S): '))
+# p = int(input('Введите произведение чисел (P): '))
+# for x in range(s - 1):
+#     y = s - x
+#     if x * y == p:
+#         print(x, y)
 
 
 
